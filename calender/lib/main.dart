@@ -2,7 +2,7 @@ import 'package:http/http.dart' as http;
 
 void main() async {
   String url = 'https://notify-api.line.me/api/notify';
-  String token = 'jNrJSb2n8CyQnrX4YGFJI3AuBeNutGxSXTO9dOyLMwS';
+  String token = 'IgahN7t84LVAWUIBqN0RJuF9VWb5i4V1Q1Lwq4Q63Ii';
   Map<String, String> headers = {
     'Authorization': 'Bearer $token',    // 設定權杖
   };
